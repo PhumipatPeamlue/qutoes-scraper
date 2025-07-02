@@ -1,0 +1,4 @@
+*.html
+*.json
+.venv/
+__pycache__/
