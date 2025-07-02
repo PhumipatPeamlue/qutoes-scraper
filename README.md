@@ -10,7 +10,7 @@ A simple Python project to extract, save, and load quotes from [Quotes to Scrape
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quotes-scraper.git
+   git clone https://github.com/PhumipatPeamlue/quotes-scraper.git
    cd quotes-scraper
    ```
 2. (Optional) Create a virtual environment:
